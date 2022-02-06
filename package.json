@@ -1,0 +1,11 @@
+{
+  "name": "react-orbital",
+  "version": "1.0.0",
+  "description": "A react state management library with a focus on the efficient use of contexts and hooks to organize and model client-side state data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
